@@ -1,0 +1,24 @@
+--2021-12-10 18:45:00--  https://terraform.io/
+Resolvendo terraform.io (terraform.io)... 151.101.129.183, 151.101.193.183, 151.101.65.183, ...
+Conectando-se a terraform.io (terraform.io)|151.101.129.183|:443... conectado.
+A requisição HTTP foi enviada, aguardando resposta... 301 https://www.terraform.io/
+Localização: https://www.terraform.io/ [redirecionando]
+--2021-12-10 18:45:02--  https://www.terraform.io/
+Resolvendo www.terraform.io (www.terraform.io)... 151.101.193.183, 151.101.1.183, 151.101.65.183, ...
+Conectando-se a www.terraform.io (www.terraform.io)|151.101.193.183|:443... conectado.
+A requisição HTTP foi enviada, aguardando resposta... 200 OK
+Tamanho: 117322 (115K) [text/html]
+Salvando em: “terraform.io/index.html”
+
+     0K .......... .......... .......... .......... .......... 43% 1,06M 0s
+    50K .......... .......... .......... .......... .......... 87% 1,23M 0s
+   100K .......... ....                                       100% 22,8M=0,09s
+
+Está faltando o cabeçalho Last-modified -- horários desligados.
+2021-12-10 18:45:03 (1,30 MB/s) - “terraform.io/index.html” salvo [117322/117322]
+
+FINALIZADO --2021-12-10 18:45:03--
+Tempo total decorrido: 2,4s
+Baixados: 1 arquivos, 115K em 0,09s (1,30 MB/s)
+Convertendo links em terraform.io/index.html... 8-96
+Links convertidos em 1 arquivos em 0,002 segundos.
